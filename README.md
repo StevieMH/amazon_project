@@ -1,4 +1,3 @@
-# amazon_project
 # 🛒 E-commerce SQL Analytics Project
 
 ## 📌 Overview
